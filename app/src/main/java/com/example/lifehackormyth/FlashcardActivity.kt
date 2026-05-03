@@ -19,11 +19,11 @@ data class Question( //Stores data for lists that have multiple pieces of inform
 class FlashcardActivity : AppCompatActivity() {
 
     private val questions = listOf(
-        Question("You can only use 10% of your brain", false, "Brain scans show we use virtually all of our brain."),
-        Question("Placing a phone in rice fixes water damage", false, "Rice is actually ineffective. Silica gel works better."),
+        Question("Lemon juice can be used as a natural deodorant", isHack = true, "The acidity in lemon juice kills odour causing bacteria making it a natural deodorant"),
+        Question("Shaving makes hair grow back thicker", false, "Shaving only cuts the hair at the surface, it does not affect the root or thickness"),
         Question("Bananas can improve your mood", true, "Bananas contain tryptophan which helps produce serotonin."),
         Question("Drinking 8 glasses of water a day is a must.", false, "Water intake vary per person."),
-        Question("Yawning is contagious even when reading about it", true, "Studies show just reading or thinking about yawning triggers it."),
+        Question("Putting a wooden spoon over a boiling pot stops it from boiling over", true, "The wooden spoon breaks the surface tension of the bubbles preventing overflow"),
         Question("Sleeping after learning helps memory retention", true, "Sleep consolidates memories ad improves recall.")
     )
     private var currentIndex = 0 //Tracks which question we are on

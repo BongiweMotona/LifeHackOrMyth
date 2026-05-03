@@ -24,9 +24,9 @@ class ScoreActivity : AppCompatActivity() {
         val score = intent.getIntExtra("SCORE", 0)
         val total = intent.getIntExtra("TOTAL", 0)
 
-        tvScore.text = "YOU SCORED $score out of $total"
+        tvScore.text = "YOU SCORED $score out of $total" // Show how much user scored
 
-        if (score >= 5) {
+        if (score >= 5) { //Show feedback when score is displayed
             tvFeedback.text = "Master Hacker!"
         } else {
             tvFeedback.text = "Stay Safe Online!"
