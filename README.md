@@ -41,10 +41,17 @@ This ensures the app works not just on my computer
 
 ## Screenshots
 
+<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/e72cc503-9429-4030-a2cc-9940e12357f9" />
+<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/c31df147-ce8a-4e44-906f-5f64c6439aea" />
+<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/e938388f-c84d-4d4d-a26e-36a39ace240d" />
+<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/37826bd0-6b3f-4a87-abf1-96810919ac86" />
+<img width="250" height="420" alt="image" src="https://github.com/user-attachments/assets/3105e8f7-0c59-48d8-88a7-5f28fe578ee2" />
 
 ## Video
 
-Click here to watch the video
+Click below to watch the video
+
+https://youtube.com/shorts/DTUAdc6hJMQ?si=wApz3l5GnB-XtaQa
 
 ## Reference List
 
